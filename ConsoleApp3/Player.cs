@@ -6,7 +6,7 @@ using System.Runtime.CompilerServices;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleApp3
+namespace CardsGame
 {
     internal class Player
     {
